@@ -7,4 +7,4 @@ Dit is hoe het er nu uit ziet:
 
 <img src="https://user-images.githubusercontent.com/91123636/169697242-9499e58e-7fe1-4a77-b22d-8033edf29978.png" width="650" height="350">
 
-Ik heb ook nog een filmpje gemaakt waarbij ik mijn project wat meer uitleg. Dat filmpje kan je hier terugvinden:
+Ik heb ook nog een kort demo filmpje gemaakt waarbij ik de werking van mijn project kort demonstreer. Dat filmpje kan je hier terugvinden:
